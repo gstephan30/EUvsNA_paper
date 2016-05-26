@@ -1,5 +1,3 @@
-#Created by Jemie Effendy - 2 March 2016
-# -*- coding: utf-8 -*-
 import sys
 import csv
 import xml.etree.ElementTree
